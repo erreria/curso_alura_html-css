@@ -12,3 +12,7 @@ Formação - Apartir do zero: HTML e CSS para projetos web
 Cursos:
 - HTML e CSS: cabeçalho, footer e variáveis CSS
 - HTML e CSS: trabalhando com responsividade e publicação de projetos
+
+
+vercel: 
+Aqui você pode ver o [resultado do projeto](https://curso-alura-html-css-sooty.vercel.app/index.html)
