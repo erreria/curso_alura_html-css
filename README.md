@@ -2,6 +2,7 @@
 Site desenvolvido com os Cursos HTML e CSS da Alura 
 
 Formação - Apartir do zero: HTML e CSS para projetos web
+
 1-) Aprenda HTML, CSS e boas práticas de desenvolvimento
   Cursos:
   - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
